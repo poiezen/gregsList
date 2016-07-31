@@ -1,8 +1,15 @@
 nav {
 	background-color: #d5dbdb;
 	height: 75px;
+	text-align: right;
 }
 
 ul	{
 	list-style: none;
+	display: inline-block;
+}
+
+li {
+	padding-right: 17px;
+	display: inline-block;
 }
