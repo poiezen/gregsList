@@ -1,3 +1,8 @@
 nav {
-	color:  #d0ece7;
+	background-color: #d5dbdb;
+	height: 75px;
+}
+
+ul	{
+	list-style: none;
 }
