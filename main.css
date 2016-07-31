@@ -1,15 +1,24 @@
 nav {
-	background-color: #d5dbdb;
-	height: 75px;
+	background-color:  #eaeded;
+	position: relative;
 	text-align: right;
+}
+
+.greg {
+	position: absolute;
+	left: 15px;
+	margin-top: 19px;
+	font-size: 26px;
+
 }
 
 ul	{
 	list-style: none;
 	display: inline-block;
+	font-size: 22px;
 }
 
 li {
-	padding-right: 17px;
+	padding-right: 13px;
 	display: inline-block;
 }
