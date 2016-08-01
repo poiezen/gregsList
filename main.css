@@ -17,17 +17,16 @@ nav {
 	left: 20px;
 	margin-top: 19px;
 	font-size: 26px;
-
 }
 
-ul	{
+.navUl	{
 	list-style: none;
 	display: inline-block;
 	font-size: 22px;
 	padding-right: 16px;
 }
 
-li {
+.navLi {
 	padding-right: 17px;
 	display: inline-block;
 }
