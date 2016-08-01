@@ -31,3 +31,11 @@ li {
 	padding-right: 17px;
 	display: inline-block;
 }
+
+body {
+	max-width: 800px;
+}
+
+input {
+	border: 1px solid black;
+}
