@@ -1,7 +1,8 @@
 nav {
 	background-color:  #eaeded;
-	position: relative;
 	text-align: right;
+	margin: 0 0 0 0;
+	padding: 0;
 }
 
 .greg {
