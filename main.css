@@ -24,9 +24,10 @@ ul	{
 	list-style: none;
 	display: inline-block;
 	font-size: 22px;
+	padding-right: 16px;
 }
 
 li {
-	padding-right: 13px;
+	padding-right: 17px;
 	display: inline-block;
 }
