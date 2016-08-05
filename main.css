@@ -39,16 +39,20 @@ input {
 	border: 1px solid black;
 }
 
-a.hover {
-	color: green;
+a.active {
+	color: orange;
 	text-decoration: none;
 }
 
-a.active {
-	outline-color: orange;
+a:hover {
+	color:   #06a300;
 	text-decoration: none;
 }
 
 a {
 	text-decoration: none;
+}
+
+p {
+	padding: 3px;
 }
