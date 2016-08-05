@@ -14,7 +14,7 @@ nav {
 
 .greg {
 	position: absolute;
-	left: 20px;
+	left: 35px;
 	margin-top: 19px;
 	font-size: 26px;
 }
@@ -32,7 +32,9 @@ nav {
 }
 
 body {
-	max-width: 800px;
+	max-width: 900px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 input {
