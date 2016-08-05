@@ -69,3 +69,7 @@ a {
 h3 {
 	border: 1px dotted green;
 }
+
+.link {
+	color: orange;
+}
