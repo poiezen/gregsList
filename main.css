@@ -54,9 +54,14 @@ a {
 }
 
 .result {
-	padding: 9px 0 0 0;
+	padding: 20px 0 0 0;
 }
 
 .resultTxt {
 	width: 535px;
+	position: absolute;
+}
+
+h3 {
+	position: relative;
 }
