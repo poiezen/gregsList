@@ -54,8 +54,9 @@ a {
 }
 
 .result {
-	padding: 3px;
-	display: inline-block;
-	clear:both;
-	float: left;
+	padding: 9px 0 0 0;
+}
+
+.resultTxt {
+	width: 535px;
 }
