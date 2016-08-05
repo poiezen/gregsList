@@ -55,13 +55,14 @@ a {
 
 .result {
 	padding: 20px 0 0 0;
+	border: 1px solid black;
 }
 
 .resultTxt {
 	width: 535px;
-	position: absolute;
+	border: 1px solid red;
 }
 
 h3 {
-	position: relative;
+	border: 1px dotted green;
 }
