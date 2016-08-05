@@ -38,3 +38,17 @@ body {
 input {
 	border: 1px solid black;
 }
+
+a.hover {
+	color: green;
+	text-decoration: none;
+}
+
+a.active {
+	outline-color: orange;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+}
